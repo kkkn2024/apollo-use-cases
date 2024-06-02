@@ -23,6 +23,7 @@ import java.util.ArrayList;
 /**
  * @author ksewen
  * @date 2019/5/175:24 PM
+ * bk study 1
  */
 @Component
 public class GatewayPropertiesRefresher implements ApplicationContextAware,ApplicationEventPublisherAware {
